@@ -25,5 +25,5 @@ Pré-requisitos: <br>
 
 ### TODO
 
-[] Criar factory do middleware.
-[] Requisições dentro de um intervalo de tempo.
+- [ ] Criar factory do middleware.
+- [ ] Requisições dentro de um intervalo de tempo
